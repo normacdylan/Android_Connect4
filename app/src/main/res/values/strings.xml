@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ConnectFour</string>
+    <string name="PlayerButton">Vs Player</string>
+    <string name="IdiotButton">Vs IdiotBot</string>
+    <string name="BeginnerButton">Vs BeginnerBot</string>
+    <string name="AverageButton">Vs AverageBot</string>
+</resources>
